@@ -1,2 +1,2 @@
-# dfs
-Written dfs
+# Dfs
+Written Dfs algorithm
